@@ -1,0 +1,5 @@
+#test
+chapter*
+rename.gitignore
+#例外
+!.gitignore
